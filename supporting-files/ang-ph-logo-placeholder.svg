@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#6f6a4b"/>
+  <rect x="18" y="18" width="1164" height="384" rx="16" fill="none" stroke="#caa35a" stroke-width="6"/>
+  <text x="600" y="205" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="154" letter-spacing="10" fill="#fffaf1">ANG <tspan fill="#d8b96f">PH</tspan></text>
+  <path d="M525 263 C545 244, 564 244, 584 263 C604 282, 624 282, 644 263 C664 244, 684 244, 704 263" fill="none" stroke="#fffaf1" stroke-width="5" stroke-linecap="round"/>
+  <text x="600" y="335" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="7" fill="#d8b96f">HANDCRAFTED FILIPINO FURNITURE</text>
+</svg>

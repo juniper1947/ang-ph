@@ -1,0 +1,136 @@
+{
+  "source_html": "image-size-map.html",
+  "description": "User-supplied HTML image placements and recommended upload sizes, with newly assigned filenames and slot IDs.",
+  "instructions": [
+    "Fill hosted_url with the actual direct image URL returned by your host for that entry. Never fabricate a URL from the filename.",
+    "The filename and slot_id are newly assigned workflow metadata; neither exists in the original HTML.",
+    "Use selector to locate the corresponding existing img element. These selectors were checked against the supplied HTML.",
+    "Dimensions are final export targets from the HTML size-map labels, not fixed browser display dimensions.",
+    "Use the .webp extension only for an image actually encoded as WebP. For a real PNG or JPEG, keep the same filename stem and use .png or .jpg, then update filename here.",
+    "A blank hosted_url means the asset has not been supplied. Keep the current image and report the missing asset; do not guess.",
+    "The project asset is a concept visualization, not evidence of a completed client project."
+  ],
+  "images": [
+    {
+      "order_in_prompt_pack": 1,
+      "slot_id": "home-hero-01",
+      "html_size_map_label": "HERO 1",
+      "placement": "Hero slide 1 - New Collections",
+      "filename": "home-hero-01-new-collections-2560x1440.webp",
+      "width_px": 2560,
+      "height_px": 1440,
+      "selector": "#top .hero-slides > .hero-slide:nth-child(1) > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 2,
+      "slot_id": "home-hero-02",
+      "html_size_map_label": "HERO 2",
+      "placement": "Hero slide 2 - Indoor",
+      "filename": "home-hero-02-indoor-2560x1440.webp",
+      "width_px": 2560,
+      "height_px": 1440,
+      "selector": "#top .hero-slides > .hero-slide:nth-child(2) > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 3,
+      "slot_id": "home-hero-03",
+      "html_size_map_label": "HERO 3",
+      "placement": "Hero slide 3 - Outdoor",
+      "filename": "home-hero-03-outdoor-2560x1440.webp",
+      "width_px": 2560,
+      "height_px": 1440,
+      "selector": "#top .hero-slides > .hero-slide:nth-child(3) > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 4,
+      "slot_id": "home-hero-04",
+      "html_size_map_label": "HERO 4",
+      "placement": "Hero slide 4 - Featured Pieces",
+      "filename": "home-hero-04-featured-pieces-2560x1440.webp",
+      "width_px": 2560,
+      "height_px": 1440,
+      "selector": "#top .hero-slides > .hero-slide:nth-child(4) > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 5,
+      "slot_id": "home-collection-indoor",
+      "html_size_map_label": "INDOOR IMAGE",
+      "placement": "Indoor collection card",
+      "filename": "home-collection-indoor-1600x1800.webp",
+      "width_px": 1600,
+      "height_px": 1800,
+      "selector": "#collections > .split-card:nth-child(1) > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 6,
+      "slot_id": "home-collection-outdoor",
+      "html_size_map_label": "OUTDOOR IMAGE",
+      "placement": "Outdoor collection card",
+      "filename": "home-collection-outdoor-1600x1800.webp",
+      "width_px": 1600,
+      "height_px": 1800,
+      "selector": "#collections > .split-card:nth-child(2) > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 7,
+      "slot_id": "home-featured-collection",
+      "html_size_map_label": "FEATURED COLLECTION",
+      "placement": "Featured collection image beside New Collections",
+      "filename": "home-featured-collection-1500x1200.webp",
+      "width_px": 1500,
+      "height_px": 1200,
+      "selector": "#new-collections .feature-image > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 8,
+      "slot_id": "home-project-concept",
+      "html_size_map_label": "PROJECT IMAGE",
+      "placement": "Project section image - concept visualization",
+      "filename": "home-project-concept-1800x2000.webp",
+      "width_px": 1800,
+      "height_px": 2000,
+      "selector": "#projects .project-image > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 9,
+      "slot_id": "home-story-01",
+      "html_size_map_label": "STORY IMAGE 1",
+      "placement": "Story card 1 - Design inspired by nature",
+      "filename": "home-story-01-nature-1200x1110.webp",
+      "width_px": 1200,
+      "height_px": 1110,
+      "selector": "#media .story-grid > .story-card:nth-child(1) .img > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 10,
+      "slot_id": "home-story-02",
+      "html_size_map_label": "STORY IMAGE 2",
+      "placement": "Story card 2 - Light, texture, and craft",
+      "filename": "home-story-02-craft-1200x1110.webp",
+      "width_px": 1200,
+      "height_px": 1110,
+      "selector": "#media .story-grid > .story-card:nth-child(2) .img > img",
+      "hosted_url": ""
+    },
+    {
+      "order_in_prompt_pack": 11,
+      "slot_id": "home-story-03",
+      "html_size_map_label": "STORY IMAGE 3",
+      "placement": "Story card 3 - A curated design experience",
+      "filename": "home-story-03-showroom-1200x1110.webp",
+      "width_px": 1200,
+      "height_px": 1110,
+      "selector": "#media .story-grid > .story-card:nth-child(3) .img > img",
+      "hosted_url": ""
+    }
+  ]
+}

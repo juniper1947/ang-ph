@@ -1,0 +1,217 @@
+FILIPINO FURNITURE WEBSITE - NAMED IMAGE PROMPT PACK
+
+Source: image-size-map.html and the earlier Filipino furniture image prompt pack supplied in this conversation.
+All 11 original visual prompts are preserved below. Each now includes an explicit export filename, a stable placement ID, and the exact matching selector in the supplied HTML.
+These filenames and placement IDs are newly assigned metadata, not attributes already present in the source HTML.
+
+The dimensions are the recommended upload sizes written in the HTML size-map labels. They are not fixed browser display sizes. The layout is responsive and uses cover cropping.
+
+ART DIRECTION
+Original contemporary Filipino furniture concepts intended for local craftsmanship. Handwoven rattan and cane, warm matte wood, cream upholstery, practical proportions, and understated elegance. Keep furniture families consistent across images. Use the website reference for placement, not as an instruction to reproduce its branded products.
+These prompts describe proposed visual concepts, not verified seller inventory, manufacturing origin, or completed client projects.
+
+FILENAME AND UPLOAD WORKFLOW
+Use the filename assigned to each image below. Save or rename the downloaded image before uploading it. A generation prompt is not a guarantee that a tool will assign the requested filename, dimensions, or file format.
+Use .webp only after exporting or converting to actual WebP format. Changing a filename extension is not format conversion. For a genuine PNG or JPEG, keep the same descriptive stem and use .png or .jpg; update the placement map to match.
+The requested filename is metadata only. Do not put filenames, placement IDs, dimensions, or HTML selectors into the visible image.
+After uploading, copy the direct image URL returned by the host. Paste that exact URL into hosted_url for the corresponding entry in furniture-image-placement-map.json. Give Codex the HTML and the completed map. The map remains the source of placement information even if the host renames an asset.
+Do not invent image URLs. Empty hosted_url fields mean the image has not been supplied.
+
+FILENAME INDEX
+01. Hero slide 1 - New Collections
+    home-hero-01-new-collections-2560x1440.webp
+02. Hero slide 2 - Indoor
+    home-hero-02-indoor-2560x1440.webp
+03. Hero slide 3 - Outdoor
+    home-hero-03-outdoor-2560x1440.webp
+04. Hero slide 4 - Featured Pieces
+    home-hero-04-featured-pieces-2560x1440.webp
+05. Indoor collection card
+    home-collection-indoor-1600x1800.webp
+06. Outdoor collection card
+    home-collection-outdoor-1600x1800.webp
+07. Featured collection image beside New Collections
+    home-featured-collection-1500x1200.webp
+08. Project section image - concept visualization
+    home-project-concept-1800x2000.webp
+09. Story card 1 - Design inspired by nature
+    home-story-01-nature-1200x1110.webp
+10. Story card 2 - Light, texture, and craft
+    home-story-02-craft-1200x1110.webp
+11. Story card 3 - A curated design experience
+    home-story-03-showroom-1200x1110.webp
+
+
+01. HERO 1 - New Collections
+Final export: 2560 x 1440 px
+Save as: home-hero-01-new-collections-2560x1440.webp
+Website placement: Hero slide 1 - New Collections
+Placement ID: home-hero-01
+Existing HTML target: #top .hero-slides > .hero-slide:nth-child(1) > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic editorial furniture photograph, landscape 2560 x 1440 pixels. Depict an original contemporary Filipino furniture collection designed for local artisan production: a low warm-wood sofa with handwoven rattan side panels and tailored cream cushions, a rounded cane-back lounge chair, and an oval solid-wood coffee table. Set the collection in an airy coastal home envisioned in Zambales, with warm off-white plaster, pale stone flooring, and a restrained woven rug. Make the lounge chair the central focal point, with the sofa and table supporting the composition. The furniture should feel native, handcrafted, practical, and quietly elegant, not ornate or rustic. Use soft side daylight, realistic wood grain, precise weaving, and matte finishes. Leave the upper 20 percent visually calm for navigation and the lower corners uncluttered for website captions. Keep the focal chair clear of the edges for responsive cropping. No people, lettering, logos, watermarks, or website graphics.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 2560 x 1440 pixels. When file-export controls permit, save it as home-hero-01-new-collections-2560x1440.webp in actual WebP format. This image is assigned to Hero slide 1 - New Collections (placement ID: home-hero-01). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+02. HERO 2 - Indoor
+Final export: 2560 x 1440 px
+Save as: home-hero-02-indoor-2560x1440.webp
+Website placement: Hero slide 2 - Indoor
+Placement ID: home-hero-02
+Existing HTML target: #top .hero-slides > .hero-slide:nth-child(2) > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic interior furniture campaign photograph, landscape 2560 x 1440 pixels. Show an original Philippine-designed dining collection intended for local craftsmanship: an oval warm-wood dining table and six matching chairs with gently rounded wooden frames, woven cane backs, and natural cream upholstered seats. Place them in an understated contemporary Filipino dining room with limewashed walls, timber window screens, and one simple woven pendant. Keep the table setting minimal, with a single ceramic bowl and a small branch arrangement, so the furniture remains the subject. Center the table and one clearly visible foreground chair; supporting chairs may extend toward the sides. Use soft morning light and an eye-level architectural view with straight verticals. Convey restrained elegance through joinery, proportions, and natural texture rather than expensive-looking ornament. Leave calm space at the top and bottom corners for website overlays. No people, text, logos, watermarks, or interface elements.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 2560 x 1440 pixels. When file-export controls permit, save it as home-hero-02-indoor-2560x1440.webp in actual WebP format. This image is assigned to Hero slide 2 - Indoor (placement ID: home-hero-02). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+03. HERO 3 - Outdoor
+Final export: 2560 x 1440 px
+Save as: home-hero-03-outdoor-2560x1440.webp
+Website placement: Hero slide 3 - Outdoor
+Placement ID: home-hero-03
+Existing HTML target: #top .hero-slides > .hero-slide:nth-child(3) > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic outdoor furniture editorial photograph, landscape 2560 x 1440 pixels. Depict an original Philippine artisan furniture concept on a deeply roofed, sheltered veranda of an imagined Zambales coastal home. Show two generously proportioned bent-rattan lounge chairs, a matching two-seat bench with cream removable cushions, and a low rounded wooden table. Use substantial frames, believable cane bindings, and carefully woven back panels; the pieces should look comfortable and realistically buildable. Keep the furniture well inside the dry covered veranda, with a subdued tropical garden and a faint coastal horizon beyond. Center one hero lounge chair, with the bench and second chair supporting the wider scene. Use gentle late-afternoon light, natural tan and sand tones, and understated styling. Preserve a visually quiet top band and clear lower corners for website overlays. No rain, plastic-looking weave, people, lettering, logos, or watermarks.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 2560 x 1440 pixels. When file-export controls permit, save it as home-hero-03-outdoor-2560x1440.webp in actual WebP format. This image is assigned to Hero slide 3 - Outdoor (placement ID: home-hero-03). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+04. HERO 4 - Featured Pieces
+Final export: 2560 x 1440 px
+Save as: home-hero-04-featured-pieces-2560x1440.webp
+Website placement: Hero slide 4 - Featured Pieces
+Placement ID: home-hero-04
+Existing HTML target: #top .hero-slides > .hero-slide:nth-child(4) > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic furniture design campaign image, landscape 2560 x 1440 pixels. Feature one original Filipino-designed accent chair intended for local handmade production: a gently curved warm-wood frame, a rounded handwoven rattan back, supported wooden armrests, and a fitted ivory seat cushion. Pair it with a small solid-wood side table and a single understated ceramic vessel. Use a warm neutral showroom with lightly textured plaster and a softly shadowed floor. Position the chair centrally, entirely visible in a three-quarter view, including all legs; make the chair the unmistakable subject. Show the quality of the weaving, smooth joinery, and subtle variation in the wood grain. The aesthetic is native Filipino craft with modest, contemporary elegance, not a highly ornamental statement piece. Leave generous side breathing room and a calm upper band for website navigation. No people, text, logos, watermarks, collage, or website graphics.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 2560 x 1440 pixels. When file-export controls permit, save it as home-hero-04-featured-pieces-2560x1440.webp in actual WebP format. This image is assigned to Hero slide 4 - Featured Pieces (placement ID: home-hero-04). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+05. INDOOR IMAGE - Indoor collection card
+Final export: 1600 x 1800 px
+Save as: home-collection-indoor-1600x1800.webp
+Website placement: Indoor collection card
+Placement ID: home-collection-indoor
+Existing HTML target: #collections > .split-card:nth-child(1) > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic furniture photograph, portrait 1600 x 1800 pixels. Show an original locally craftable Filipino indoor living-room collection: a compact warm-wood sofa with woven rattan side panels and cream cushions, one rounded cane-back lounge chair, and an oval wooden coffee table. Use the same furniture language as a coordinated collection: softened corners, slender but sturdy frames, matte wood, and neat natural weaving. Place the pieces in a bright room with off-white plaster, a pale floor, and a restrained woven rug. Compose vertically, with the full lounge chair and coffee table clearly visible and the sofa behind them. Keep essential furniture away from the side edges and concentrate the main grouping around the middle for alternate responsive crops. Reserve the bottom 20 percent as simple, slightly darker floor space for the Indoor heading. Soft daylight, realistic proportions, understated elegance. No people, text, logos, watermarks, or interface elements.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 1600 x 1800 pixels. When file-export controls permit, save it as home-collection-indoor-1600x1800.webp in actual WebP format. This image is assigned to Indoor collection card (placement ID: home-collection-indoor). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+06. OUTDOOR IMAGE - Outdoor collection card
+Final export: 1600 x 1800 px
+Save as: home-collection-outdoor-1600x1800.webp
+Website placement: Outdoor collection card
+Placement ID: home-collection-outdoor
+Existing HTML target: #collections > .split-card:nth-child(2) > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic furniture photograph, portrait 1600 x 1800 pixels. Depict an original Philippine-designed outdoor lounge concept intended for local artisan production, placed entirely under a deep covered veranda. Show one rounded bent-rattan lounge chair prominently in front, a second matching chair slightly behind, and a small warm-wood side table. Include comfortable cream cushions, carefully woven cane panels, and believable bound joints. Surround the furniture with pale stone paving, a simple timber post, and softly blurred greenery; keep plants secondary to the furniture. The atmosphere should suggest an elegant but relaxed coastal Filipino home, not an extravagant resort. Use gentle daylight with soft foliage shadows. Keep the main chair centered and fully visible, with enough surrounding space for responsive cropping. Leave the bottom 20 percent visually quiet and slightly shaded for the Outdoor heading. No exposed rainy setting, people, text, logos, watermarks, or web graphics.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 1600 x 1800 pixels. When file-export controls permit, save it as home-collection-outdoor-1600x1800.webp in actual WebP format. This image is assigned to Outdoor collection card (placement ID: home-collection-outdoor). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+07. FEATURED COLLECTION - New Collections feature
+Final export: 1500 x 1200 px
+Save as: home-featured-collection-1500x1200.webp
+Website placement: Featured collection image beside New Collections
+Placement ID: home-featured-collection
+Existing HTML target: #new-collections .feature-image > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic coordinated furniture collection photograph, landscape 1500 x 1200 pixels, aspect ratio 5:4. Present three original contemporary Filipino pieces intended for local manufacture: a two-seat warm-wood sofa with handwoven rattan panels and oatmeal cushions, a matching curved cane-back armchair, and a low oval solid-wood coffee table. Arrange them in a balanced, spacious grouping in an understated studio styled like a contemporary Filipino home. Use warm off-white plaster, pale stone flooring, one small ceramic object, and a minimal woven rug. Show every piece clearly, including legs and structural connections, with consistent scale and no distracting overlaps. Emphasize carefully finished wood, clean upholstery seams, and visible handwoven texture. The design should feel native and gently elevated, not roughly finished, ornate, or extravagantly sculptural. Use soft natural side light and realistic material detail. Keep generous margins on all sides. No people, lettering, logos, watermarks, or website elements.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 1500 x 1200 pixels. When file-export controls permit, save it as home-featured-collection-1500x1200.webp in actual WebP format. This image is assigned to Featured collection image beside New Collections (placement ID: home-featured-collection). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+08. PROJECT IMAGE - Interior project concept
+Final export: 1800 x 2000 px
+Save as: home-project-concept-1800x2000.webp
+Website placement: Project section image - concept visualization
+Placement ID: home-project-concept
+Existing HTML target: #projects .project-image > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic architectural interior concept visualization, portrait 1800 x 2000 pixels. Imagine a small boutique hospitality lounge in Zambales furnished with an original Philippine-designed collection intended for local production. Include two warm-wood sofas with woven rattan panels and cream upholstery, two matching cane-back lounge chairs, low wooden tables, and simple woven pendant lights. Build a cohesive room with limewashed walls, timber screens, pale stone flooring, and daylight from tall openings. Show a complete, usable furniture arrangement with comfortable circulation and believable proportions. Compose from an eye-level three-quarter architectural viewpoint with straight verticals and no extreme wide-angle distortion. Keep the main seating group in the middle of the portrait frame, with full furniture legs visible and a clear foreground. Convey quiet local craftsmanship through materials and restrained detailing, not luxury ornament. No people, signage, logos, watermarks, website graphics, or claims of an actual completed project.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 1800 x 2000 pixels. When file-export controls permit, save it as home-project-concept-1800x2000.webp in actual WebP format. This image is assigned to Project section image - concept visualization (placement ID: home-project-concept). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+09. STORY IMAGE 1 - Design inspired by nature
+Final export: 1200 x 1110 px
+Save as: home-story-01-nature-1200x1110.webp
+Website placement: Story card 1 - Design inspired by nature
+Placement ID: home-story-01
+Existing HTML target: #media .story-grid > .story-card:nth-child(1) .img > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic furniture editorial photograph, 1200 x 1110 pixels, a slightly landscape near-square frame. Feature an original Philippine-designed lounge chair intended for local handmade production. Give it a low, gently curved rattan back inspired by the arc of a leaf, a sturdy warm-wood frame, and a tailored cream seat cushion. Keep the design subtle and functional rather than shaped like a literal flower or novelty sculpture. Place the chair against a warm plaster wall with soft leaf shadows and only a small suggestion of greenery at the edge. Show the complete chair in a three-quarter view, centered with generous space around its legs and back. Make the weave, joinery, and natural material variation crisp and believable. Use gentle daylight and restrained sand, honey, and cream tones. No people, lettering, logos, watermarks, collage, or website graphics.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 1200 x 1110 pixels. When file-export controls permit, save it as home-story-01-nature-1200x1110.webp in actual WebP format. This image is assigned to Story card 1 - Design inspired by nature (placement ID: home-story-01). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+10. STORY IMAGE 2 - Light, texture, and craft
+Final export: 1200 x 1110 px
+Save as: home-story-02-craft-1200x1110.webp
+Website placement: Story card 2 - Light, texture, and craft
+Placement ID: home-story-02
+Existing HTML target: #media .story-grid > .story-card:nth-child(2) .img > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic furniture craftsmanship editorial photograph, 1200 x 1110 pixels, a slightly landscape near-square frame. Show an intimate close view of an original Philippine-designed chair intended for local production: a smoothly rounded wooden armrest, tightly handwoven cane back, neat rattan bindings, and the edge of a cream fabric cushion. Include enough of the seat and supporting frame that the subject remains clearly recognizable as furniture, not an abstract texture sample. Let a softly glowing woven pendant appear out of focus in the background. Use warm side lighting to reveal the weave, subtle wood grain, clean joints, and fabric texture without harsh orange color casts. The mood is calm, tactile, contemporary, and quietly elegant. Keep the craftsmanship detail near the center with breathing room around it. No people, hands, lettering, logos, watermarks, split panels, or website graphics.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 1200 x 1110 pixels. When file-export controls permit, save it as home-story-02-craft-1200x1110.webp in actual WebP format. This image is assigned to Story card 2 - Light, texture, and craft (placement ID: home-story-02). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+11. STORY IMAGE 3 - A curated design experience
+Final export: 1200 x 1110 px
+Save as: home-story-03-showroom-1200x1110.webp
+Website placement: Story card 3 - A curated design experience
+Placement ID: home-story-03
+Existing HTML target: #media .story-grid > .story-card:nth-child(3) .img > img
+
+PROMPT - COPY THIS ENTIRE BLOCK
+Create a photorealistic showroom editorial photograph, 1200 x 1110 pixels, a slightly landscape near-square frame. Imagine a small independent Filipino furniture showroom presenting an original collection intended for local artisan manufacture. Arrange a cane-back lounge chair, a compact cream-cushioned wood-and-rattan sofa, a low oval wooden table, and a simple timber console with woven door panels. Use cohesive warm wood tones, pale walls, a restrained woven rug, and one small ceramic accent. Leave generous walking space and avoid overcrowded retail displays. Compose the main furniture grouping centrally at eye level, showing believable scale, full chair legs, and realistic material detail. Use soft daylight with a little warm ambient lighting. The result should feel welcoming, native, and slightly elegant rather than glossy, ostentatious, or rustic. No people, price tags, signage, lettering, logos, watermarks, or website interface.
+
+OUTPUT INSTRUCTIONS (metadata only, not image lettering): Export the finished image at 1200 x 1110 pixels. When file-export controls permit, save it as home-story-03-showroom-1200x1110.webp in actual WebP format. This image is assigned to Story card 3 - A curated design experience (placement ID: home-story-03). Do not draw the filename, placement ID, dimensions, or website instructions inside the image. If the export tool cannot choose a filename or create WebP, retain its real output format and rename or convert the downloaded file separately before uploading.
+
+
+GENERATION AND EXPORT NOTES
+Set the output dimensions in the generator or export tool; including pixel dimensions only in prompt text does not guarantee the delivered pixel size. When the tool cannot output an exact size, generate at a sufficiently large resolution with the closest supported aspect ratio, then crop and resize to the listed dimensions without stretching.
+
+Use an approved first image as a visual reference for later images when the generator supports reference inputs. Matching text alone does not guarantee identical furniture across separately generated images.
+
+Preview the images on desktop and mobile. Cover cropping can remove portions of a landscape image on a narrow screen. Keep the main focal furniture central and allow secondary surroundings to be cropped.
+
+Do not bake the HTML's size-map labels, site branding, navigation, or captions into the image. The website supplies its own overlays.
+
+An AI-generated project visualization should be identified as a concept rather than used as evidence of a completed installation.
+
+
+CODEX IMPLEMENTATION PROMPT
+
+Update the supplied image-size-map.html using furniture-image-placement-map.json and the direct hosted image URLs I provide. Treat the map as the explicit assignment of assets to existing image elements; do not guess placement from appearance or filenames alone.
+
+For every entry with a supplied hosted_url:
+- Locate the existing img element using that entry's selector. Verify that the selector resolves to exactly one element. If it does not, leave that entry unchanged and report the mismatch rather than guessing.
+- Replace only that element's src with the actual provided hosted_url. Do not invent host domains, paths, or transformations, or reconstruct URLs from filenames. A host may rename a file; the URL recorded under its map entry is authoritative.
+- Add data-image-slot with that entry's slot_id so future replacements remain unambiguous. This is a new attribute, not one already present in the supplied HTML.
+- Keep existing image-loading behavior, slide order, responsive layout, object-fit and object-position settings, links, controls, and animations. Do not set fixed CSS display sizes from the export dimensions.
+- Keep the hero images decorative (empty alt text within the existing aria-hidden slideshow). For non-hero images, update alt text to accurately describe the final supplied image without claiming verified origin, a real showroom, inventory, or a completed project.
+
+For any entry whose hosted_url is blank, leave its current src in place and report the missing filename. Do not substitute an unrelated image.
+
+If the supplied project asset is the AI concept described in the prompt pack, do not leave it presented as a completed installation. Change the existing project heading from Completed Projects to Project Concepts, change its alt text to describe a concept visualization, and ensure the adjacent copy does not claim an actual completed project. Make no unrelated branding or content changes.
+
+Treat filenames, dimensions, and placement IDs as metadata, never visible text over the furniture. For the production version, remove the annotation elements .image-spec-label and .spec-legend and the separate style block marked IMAGE SIZE MAP OVERLAY; retain the original layout CSS.
+
+Verify image loading and cropping at desktop and mobile widths where a browser is available. Return a summary of which slots were replaced and which remain missing or unverified. Do not claim to have verified image loading unless it was actually tested.

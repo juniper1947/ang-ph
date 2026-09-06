@@ -1,0 +1,73 @@
+ANG PH - WEBSITE IMAGE PROMPTS
+
+VISUAL DIRECTION
+Earthy brown, deep walnut, warm tan leather or linen, cream and sand upholstery, rattan and cane weaving, handwoven pendant lighting, sculptural wood furniture, glass tabletops, tropical or coastal architecture, warm natural light, restrained luxury, Filipino artisan craftsmanship. Avoid bright colors, glossy chrome, cold ultra-minimal interiors, plastic-looking rattan, or ornate European luxury.
+
+1) FILE: angph-hero-01-dining-2560x1440.webp
+SIZE: 2560 x 1440 px
+PLACEMENT: Hero slide 1 - Dining Collection
+PROMPT:
+Photorealistic luxury Filipino dining interior for ANG PH, wide 16:9 composition. A large rectangular clear-glass dining table with a dramatic sculptural dark-walnut pedestal base made from faceted wood planes, surrounded by eight to ten high-back dining chairs upholstered in warm camel-tan leather or textured beige fabric with slim dark wood frames. Behind the table, deep walnut vertical slat wall panels and a refined geometric chandelier with warm diffused shades. Earthy palette of espresso brown, tobacco, sand, cream and muted gold. Elegant Philippine craftsmanship, natural materials, precise joinery, calm upscale residential atmosphere, soft warm architectural lighting, realistic proportions, editorial furniture photography. Keep the central dining table fully visible and leave calm negative space near the upper center for website navigation. No people, no text, no logos, no watermarks.
+
+2) FILE: angph-hero-02-rattan-lounge-2560x1440.webp
+SIZE: 2560 x 1440 px
+PLACEMENT: Hero slide 2 - Rattan & Cane
+PROMPT:
+Photorealistic ANG PH living room inspired by contemporary Philippine craft, landscape 16:9. Feature a sculptural lounge chair with a continuous bent-rattan loop frame and handwoven cane body, fitted with a thick natural-ivory cushion. Pair with a carved or woven rattan side table, a low dark-wood sofa with cream cushions, and handwoven abaca or jute rug. Warm plaster walls, large tropical plant, soft filtered daylight, earthy honey-rattan, walnut, sand and ivory tones. Furniture should feel locally handcrafted, substantial, elegant and functional, with visible weaving and natural variation. Refined tropical luxury, not rustic resort decor. No people, no text, logos or watermarks.
+
+3) FILE: angph-hero-03-artisan-lighting-2560x1440.webp
+SIZE: 2560 x 1440 px
+PLACEMENT: Hero slide 3 - Artisan Lighting
+PROMPT:
+Photorealistic high-end Filipino interior beneath a dramatic timber-and-woven ceiling, landscape 16:9. Suspend a cluster of large handwoven rattan pendant lamps in varied organic silhouettes, glowing warmly at different heights. Below them, a low dark timber sofa with cream cushions, nested light-wood coffee tables on slender dark frames, woven floor rug, artisan timber screens and textured natural walls. Emphasize the craftsmanship of the basket-like pendants and the warm interaction of light with rattan and wood. Earthy brown, caramel, tan, sand and soft cream palette. Elegant, artisanal, contemporary Philippine atmosphere. No people, no text, no logos, no watermarks.
+
+4) FILE: angph-hero-04-curated-interior-2560x1440.webp
+SIZE: 2560 x 1440 px
+PLACEMENT: Hero slide 4 - Curated Interiors
+PROMPT:
+Photorealistic ANG PH dining and living vignette in a sophisticated Filipino home, landscape 16:9. A square or rectangular glass-top table sits on thick woven or textured natural-fiber pedestal legs, paired with sculptural rattan and wood dining chairs. Add large woven pendant lighting, artisan ceramic vessels, warm timber cabinets, a round woven wall mirror, tactile rattan accessories and muted tropical greenery. Use chocolate brown walls, walnut wood, honey rattan, camel beige and warm ivory. Layered natural textures, elegant but welcoming, handmade Philippine luxury, warm ambient light, high-end editorial styling. No people, no text, no logos, no watermarks.
+
+5) FILE: angph-collection-indoor-1600x1800.webp
+SIZE: 1600 x 1800 px
+PLACEMENT: Indoor collection card
+PROMPT:
+Portrait editorial photograph of an ANG PH indoor collection. Center a sculptural dark-walnut and rattan lounge chair with generous cream cushion beside a tactile woven side table. In the background, include a low cream-upholstered sofa with dark timber base, subtle cane details, a warm plaster wall and one handwoven pendant. Earthy and natural palette: espresso, walnut, honey rattan, camel, sand and ivory. Visible artisan joinery and weaving, refined Philippine craftsmanship, elegant tropical residence, soft natural light. Keep the furniture centered for tall responsive crop. No people, text, logo or watermark.
+
+6) FILE: angph-collection-outdoor-1600x1800.webp
+SIZE: 1600 x 1800 px
+PLACEMENT: Outdoor collection card
+PROMPT:
+Portrait photograph of elegant ANG PH tropical outdoor furniture under a deep covered veranda. Feature a generous handwoven rattan lounge chair with rounded frame and cream cushion, paired with a matching low stool or side table and a dark timber bench with neutral cushions. Surround with natural stone, heavy timber structure and restrained tropical planting. Honey rattan, warm walnut, stone beige and ivory. Sophisticated Philippine resort-residential mood, artisanal, durable, locally craftable, never plastic-looking. Soft late-afternoon light. No people, text, logo or watermark.
+
+7) FILE: angph-featured-collection-1500x1200.webp
+SIZE: 1500 x 1200 px
+PLACEMENT: Featured Collection
+PROMPT:
+Photorealistic ANG PH furniture collection, 5:4 landscape. Present a coordinated group: one sculptural bent-rattan armchair with cream cushion, one dark walnut lounge chair with woven cane back, one low walnut coffee table, and one woven side table. Style in an elegant warm-neutral interior with handwoven rug, plaster wall and soft shadow. Materials must feel natural and handmade in the Philippines: rattan, cane, hardwood, woven fiber and tailored neutral upholstery. Palette of deep brown, tobacco, honey, sand and warm ivory. Quiet luxury, impeccable craftsmanship, realistic scale, uncluttered editorial composition. No people, text, logo or watermark.
+
+8) FILE: angph-project-residential-1800x2000.webp
+SIZE: 1800 x 2000 px
+PLACEMENT: Projects / Curated Interiors panel
+PROMPT:
+Portrait architectural interior visualization for ANG PH. A complete upscale Filipino dining space with a dramatic clear-glass table on a sculptural dark-walnut pedestal base, ten camel-beige upholstered dining chairs, vertical walnut wall slats, warm geometric chandelier and light natural stone floor. Add only a few artisan accents so the furniture remains dominant. Rich espresso and walnut balanced by sand, cream and muted gold. The room should feel custom-made, luxurious, warm and residential, with Philippine craftsmanship and natural materials. Straight architectural lines, realistic wide-angle perspective, no people, no signage, no text, no watermark.
+
+9) FILE: angph-story-01-natural-forms-1200x1110.webp
+SIZE: 1200 x 1110 px
+PLACEMENT: Story 1 - Forms inspired by nature
+PROMPT:
+Near-square editorial close portrait of an ANG PH sculptural rattan chair. A continuous rounded rattan frame curves around a woven seat body, paired with an ivory cushion. Emphasize organic silhouette, hand bindings, natural fiber texture and warm honey-brown finish. Set against a quiet clay-beige wall with soft tropical leaf shadows. Elegant Filipino craftsmanship, tactile and refined, realistic material detail, soft natural light. No people, text, logo or watermark.
+
+10) FILE: angph-story-02-woven-lighting-1200x1110.webp
+SIZE: 1200 x 1110 px
+PLACEMENT: Story 2 - Woven light, made by hand
+PROMPT:
+Near-square editorial photograph looking upward into a warm timber ceiling with a curated cluster of handwoven rattan pendant lights in distinct sculptural forms. Show basket-weave construction, irregular artisan texture and warm bulbs glowing through the fibers. Include a small glimpse of vertical woven screens and cream seating below for context. Rich honey rattan, walnut brown, amber light and soft cream. Sophisticated Philippine craftsmanship and earthy luxury. No people, text, logo or watermark.
+
+11) FILE: angph-story-03-curated-1200x1110.webp
+SIZE: 1200 x 1110 px
+PLACEMENT: Story 3 - A warm, curated home
+PROMPT:
+Near-square interior vignette for ANG PH. Glass-top dining table with thick woven natural-fiber or rattan pedestal legs, sculptural chair with curved dark frame and tan upholstery, woven pendant above, artisan pottery and large round woven mirror. Warm chocolate walls, dark timber cabinetry, honey rattan and muted green plant accents. Layered, collected, distinctly Filipino, elegant and intimate rather than flashy. Natural materials, handmade detail, warm ambient lighting, editorial furniture photography. No people, text, logo or watermark.
+
+LOGO GENERATION PROMPT - ANG PH
+Create a premium furniture brand logo reading exactly “ANG PH”. Elegant high-contrast serif capitals inspired by refined editorial typography, with the letters ANG in warm ivory and PH in muted metallic gold. Add a very small hand-drawn Filipino-inspired ornamental flourish or abstract artisan mark centered beneath the wordmark, subtle and non-literal. Optional tagline beneath in widely spaced small capitals: “LUXURY HANDCRAFTED FURNITURE” and on the next line “INSPIRED BY PHILIPPINE ARTISTRY”. Earthy olive-brown circular field with a thin muted-gold border, subtle embossed or engraved dimensional finish, warm restrained luxury, natural Philippine craft sensibility. No crown, no monogram, no overly ornate European motifs. Also create a clean transparent-background horizontal wordmark version for website navigation.

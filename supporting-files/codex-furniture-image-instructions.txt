@@ -1,0 +1,18 @@
+CODEX IMPLEMENTATION PROMPT
+
+Update the supplied image-size-map.html using furniture-image-placement-map.json and the direct hosted image URLs I provide. Treat the map as the explicit assignment of assets to existing image elements; do not guess placement from appearance or filenames alone.
+
+For every entry with a supplied hosted_url:
+- Locate the existing img element using that entry's selector. Verify that the selector resolves to exactly one element. If it does not, leave that entry unchanged and report the mismatch rather than guessing.
+- Replace only that element's src with the actual provided hosted_url. Do not invent host domains, paths, or transformations, or reconstruct URLs from filenames. A host may rename a file; the URL recorded under its map entry is authoritative.
+- Add data-image-slot with that entry's slot_id so future replacements remain unambiguous. This is a new attribute, not one already present in the supplied HTML.
+- Keep existing image-loading behavior, slide order, responsive layout, object-fit and object-position settings, links, controls, and animations. Do not set fixed CSS display sizes from the export dimensions.
+- Keep the hero images decorative (empty alt text within the existing aria-hidden slideshow). For non-hero images, update alt text to accurately describe the final supplied image without claiming verified origin, a real showroom, inventory, or a completed project.
+
+For any entry whose hosted_url is blank, leave its current src in place and report the missing filename. Do not substitute an unrelated image.
+
+If the supplied project asset is the AI concept described in the prompt pack, do not leave it presented as a completed installation. Change the existing project heading from Completed Projects to Project Concepts, change its alt text to describe a concept visualization, and ensure the adjacent copy does not claim an actual completed project. Make no unrelated branding or content changes.
+
+Treat filenames, dimensions, and placement IDs as metadata, never visible text over the furniture. For the production version, remove the annotation elements .image-spec-label and .spec-legend and the separate style block marked IMAGE SIZE MAP OVERLAY; retain the original layout CSS.
+
+Verify image loading and cropping at desktop and mobile widths where a browser is available. Return a summary of which slots were replaced and which remain missing or unverified. Do not claim to have verified image loading unless it was actually tested.
