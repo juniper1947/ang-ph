@@ -170,9 +170,18 @@
 .header{grid-template-columns:auto 1fr}.logo{grid-column:1}.nav{grid-column:2;gap:22px}.hero-slide{position:absolute}.hero-controls{bottom:28px}.mobile-panel{background:#21170f;color:#fff9ef}
 @media(max-width:1100px){.header{grid-template-columns:1fr auto}.logo{grid-column:1}.mobile-menu-button{grid-column:2}.brand-logo{width:180px}}
 @media(max-width:680px){.hero-controls{bottom:88px}.brand-logo{width:155px}.hero-meta{gap:12px}.hero-meta>div:first-child{max-width:48%}}
+</style><style>
+/* Temporary client preview version switcher. */
+.version-switcher{position:absolute;z-index:8;top:132px;right:32px;display:flex;gap:4px;padding:5px;border:1px solid rgba(225,199,131,.55);border-radius:6px;background:rgba(33,23,15,.85);font:12px/1.2 Arial,Helvetica,sans-serif}
+.version-switcher a{display:block;padding:10px 13px;border-radius:3px;color:#fffaf1;white-space:nowrap}
+.version-switcher a[aria-current="page"]{background:#e1c783;color:#21170f}
+.version-switcher a:hover{background:#f3eadc;color:#21170f}
+.version-switcher a:focus-visible{outline:2px solid #fffaf1;outline-offset:2px}
+@media(max-width:1100px){.version-switcher{top:108px;right:22px}}
+@media(max-width:680px){.version-switcher{top:96px;right:18px}}
 </style></head>
 <body>
-<section class="hero" id="top">
+<section class="hero" id="top"><nav class="version-switcher" aria-label="Website version"><a href="ang%20ph%20website%20version%201%20updated.html">Version 1</a><a href="ang%20ph%20website%20version%202%20updated.html" aria-current="page">Version 2</a></nav>
 <div aria-hidden="true" class="hero-slides">
 <div class="hero-slide active"><img fetchpriority="high" loading="eager" alt="" src="https://res.cloudinary.com/dozcy2jve/image/upload/v1788706047/images/angph_hero_01_dining_2560x1440_webp_homepage_hero_slide_1_dining_collection_ztz7j8.png"/></div>
 <div class="hero-slide"><img alt="" src="https://res.cloudinary.com/dozcy2jve/image/upload/v1788706051/images/angph_hero_02_rattan_lounge_2560x1440_webp_homepage_hero_slide_2_rattan_and_cane_dcspoy.png"/></div>
